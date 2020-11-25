@@ -1,2 +1,2 @@
-# Mathematical_Finance
+# Mathematical Finance
 Mathematical Finance related projects/things
