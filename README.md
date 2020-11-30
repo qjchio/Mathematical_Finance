@@ -8,8 +8,8 @@ Ideally (i think), options should be objects but I have simply written the funct
 
 
 #TODO
-*MC simulation
-*Generating greeks: delta, gamma, vega, rho, theta
-*hedging
-*Tree pricing
-*Pricing of exotic options
+* MC simulation
+* Generating greeks: delta, gamma, vega, rho, theta
+* hedging
+* Tree pricing
+* Pricing of exotic options
